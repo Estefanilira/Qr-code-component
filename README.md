@@ -1,28 +1,28 @@
-## Desenvolvimento de uma Solução Mobile-First com CSS Grid e Flexbox
+## Development of a Mobile-First Solution with CSS Grid and Flexbox
 
-## Descrição:
+## Description:
 
-No mundo digital atual, a otimização para dispositivos móveis é essencial. Com a prevalência de smartphones e tablets, garantir que os websites e aplicativos funcionem perfeitamente em telas menores é uma prioridade. O projeto a seguir ilustra uma solução mobile-first, criada com as tecnologias HTML e CSS, e faz uso extensivo de CSS Grid e Flexbox para alcançar um layout responsivo e eficaz.
+In today's digital world, optimizing for mobile devices is essential. With the prevalence of smartphones and tablets, ensuring websites and apps run smoothly on smaller screens is a priority. The following project illustrates a mobile-first solution, created with HTML and CSS technologies, and makes extensive use of CSS Grid and Flexbox to achieve a responsive and effective layout.
 
-### Este projeto foi feito baseado nos desafios do front end Mentor.
+### This project was created based on the challenges of the Mentor front end.
 
-## Objetivo:
+## Goal:
 
-O objetivo deste projeto é desenvolver um card que se adapte perfeitamente a uma ampla variedade de dispositivos, desde smartphones e tablets até desktops. A abordagem mobile-first é adotada, o que significa que o design começa com telas menores e se expande para dispositivos maiores, garantindo uma experiência de usuário fluida em qualquer contexto.
+The goal of this project is to develop a card that adapts perfectly to a wide variety of devices, from smartphones and tablets to desktops. A mobile-first approach is adopted, which means the design starts with smaller screens and expands to larger devices, ensuring a fluid user experience in any context.
 
-Tecnologias Utilizadas:
+Technologies Used:
 
-* HTML: A estrutura do site é construída usando HTML (HyperText Markup Language), que fornece a base para a estrutura do conteúdo.
-* CSS: As folhas de estilo em Cascata (CSS) são usadas para estilizar e posicionar os elementos da página.
-* CSS Grid: O CSS Grid é uma técnica poderosa para criar layouts de grade, que é especialmente útil para a organização de conteúdo em várias colunas e linhas.
-* Flexbox: O Flexbox é empregado para criar layouts mais flexíveis, garantindo que os elementos se ajustem automaticamente ao tamanho da tela, criando designs fluídos.
+* HTML: The website structure is built using HTML (HyperText Markup Language), which provides the basis for the content structure.
+* CSS: Cascading style sheets (CSS) are used to style and position page elements.
+* CSS Grid: CSS Grid is a powerful technique for creating grid layouts, which is especially useful for organizing content into multiple columns and rows.
+* Flexbox: Flexbox is used to create more flexible layouts, ensuring that elements automatically adjust to the screen size, creating fluid designs.
 
-## Características Principais:
+## Main Features:
 
-* Layout Responsivo: O layout se ajusta automaticamente para diferentes tamanhos de tela, garantindo uma experiência consistente para todos os usuários.
-* Navegação Intuitiva: A navegação é projetada para ser simples e intuitiva, independentemente do dispositivo em uso.
-* Design Atraente: O site apresenta um design atraente e agradável, com imagens e cores atraentes que aprimoram a estética geral.
-* Performance Otimizada: A combinação de HTML bem estruturado e CSS eficiente garante um carregamento rápido e eficaz.
+* Responsive Layout: The layout automatically adjusts for different screen sizes, ensuring a consistent experience for all users.
+* Intuitive Navigation: Navigation is designed to be simple and intuitive, regardless of the device in use.
+* Attractive Design: The website features an attractive and pleasant design with attractive images and colors that enhance the overall aesthetics.
+* Optimized Performance: The combination of well-structured HTML and efficient CSS ensures fast and efficient loading.
 
 
 ![Medium-Screen-1024x800](https://github.com/Estefanilira/Qr-code-component/assets/126111557/20daf694-449e-483e-8cba-96763dc224a0)
